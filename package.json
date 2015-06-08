@@ -1,0 +1,17 @@
+{
+  "name": "monster_game",
+  "version": "1.0.0",
+  "description": "monster game stuff happens in it",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "stuff",
+    "things",
+    "more",
+    "stuff?"
+  ],
+  "author": "Jon Ringvald",
+  "license": "MIT"
+}
